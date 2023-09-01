@@ -3,7 +3,7 @@
 
 Welcome to the PhoenixCollectbles NFT Marketplace project! This repository contains the frontend, smart contracts, and The Graph subgraph for the marketplace application. The marketplace was built using technologies such as Moralis, Web3UIKit, OpenZeppelin contracts, Hardhat, Solidity, Tailwind CSS, Next.js, IPFS, GraphQL, and more.
 
-![PhoenixCollectbles Marketplace](./Home%20-%20PhoenixCollectibles%20-%20Google%20Chrome%2031_08_2023%2019_46_20.png)
+![PhoenixCollectbles Marketplace](./Home-PhoenixCollectibles.png)
 ## Repositories
 
 1. **Frontend Repository**
